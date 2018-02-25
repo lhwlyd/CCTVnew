@@ -1,0 +1,4258 @@
+fileFormatVersion: 2
+guid: 4f30939b03ef7ff408b357b22813fc64
+timeCreated: 1512311433
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cat_arm
+    100002: Cat_middle
+    100004: //RootNode
+    100006: claws_back.L
+    100008: claws_back.R
+    100010: claws_front.L
+    100012: claws_front.R
+    100014: ear_1.L
+    100016: ear_1.R
+    100018: ear_2.L
+    100020: ear_2.R
+    100022: eye.L
+    100024: eye.L.001
+    100026: eye.R
+    100028: eye.R.001
+    100030: foot_back.L
+    100032: foot_back.R
+    100034: foot_front.L
+    100036: foot_front.R
+    100038: head
+    100040: helper_bleg.L
+    100042: helper_bleg.R
+    100044: helper_fleg.L
+    100046: helper_fleg.R
+    100048: hip_back_1.L
+    100050: hip_back_1.R
+    100052: hip_back_2.L
+    100054: hip_back_2.L.001
+    100056: hip_front.L
+    100058: hip_front.R
+    100060: knee_back.L
+    100062: knee_back.R
+    100064: knee_front.L
+    100066: knee_front.R
+    100068: leg_back.L
+    100070: leg_back.R
+    100072: leg_front.L
+    100074: leg_front.R
+    100076: mouth
+    100078: neck_1
+    100080: neck_2
+    100082: shoulder.L
+    100084: shoulder.R
+    100086: spine_1
+    100088: spine_2
+    100090: spine_3
+    100092: spine_4
+    100094: spine_5
+    100096: tail_1
+    100098: tail_2
+    100100: tail_3
+    100102: tail_4
+    100104: tail_5
+    100106: tail_6
+    100108: tail_7
+    100110: tail_8
+    100112: tongue_1
+    100114: tongue_2
+    400000: Cat_arm
+    400002: Cat_middle
+    400004: //RootNode
+    400006: claws_back.L
+    400008: claws_back.R
+    400010: claws_front.L
+    400012: claws_front.R
+    400014: ear_1.L
+    400016: ear_1.R
+    400018: ear_2.L
+    400020: ear_2.R
+    400022: eye.L
+    400024: eye.L.001
+    400026: eye.R
+    400028: eye.R.001
+    400030: foot_back.L
+    400032: foot_back.R
+    400034: foot_front.L
+    400036: foot_front.R
+    400038: head
+    400040: helper_bleg.L
+    400042: helper_bleg.R
+    400044: helper_fleg.L
+    400046: helper_fleg.R
+    400048: hip_back_1.L
+    400050: hip_back_1.R
+    400052: hip_back_2.L
+    400054: hip_back_2.L.001
+    400056: hip_front.L
+    400058: hip_front.R
+    400060: knee_back.L
+    400062: knee_back.R
+    400064: knee_front.L
+    400066: knee_front.R
+    400068: leg_back.L
+    400070: leg_back.R
+    400072: leg_front.L
+    400074: leg_front.R
+    400076: mouth
+    400078: neck_1
+    400080: neck_2
+    400082: shoulder.L
+    400084: shoulder.R
+    400086: spine_1
+    400088: spine_2
+    400090: spine_3
+    400092: spine_4
+    400094: spine_5
+    400096: tail_1
+    400098: tail_2
+    400100: tail_3
+    400102: tail_4
+    400104: tail_5
+    400106: tail_6
+    400108: tail_7
+    400110: tail_8
+    400112: tongue_1
+    400114: tongue_2
+    4300000: Cat_middle
+    7400000: Cat_arm|_idle_1
+    7400002: Cat_arm|attack
+    7400004: Cat_arm|bounce
+    7400006: Cat_arm|bounce.001
+    7400008: Cat_arm|bounce.002
+    7400010: Cat_arm|bounce.003
+    7400012: Cat_arm|bounce_180
+    7400014: Cat_arm|damage_1
+    7400016: Cat_arm|damage_2
+    7400018: Cat_arm|die
+    7400020: Cat_arm|die_2
+    7400022: Cat_arm|eat
+    7400024: Cat_arm|hate
+    7400026: Cat_arm|hate_idle
+    7400028: Cat_arm|Idle_2
+    7400030: Cat_arm|idle_petting
+    7400032: Cat_arm|jump
+    7400034: Cat_arm|petting-->sit
+    7400036: Cat_arm|run
+    7400038: Cat_arm|sit
+    7400040: Cat_arm|sit_idle
+    7400042: Cat_arm|sit_idle_2
+    7400044: Cat_arm|sit_petting
+    7400046: Cat_arm|sleep_end
+    7400048: Cat_arm|sleep_idle
+    7400050: Cat_arm|sleep_petting
+    7400052: Cat_arm|sleep_start
+    7400054: Cat_arm|up
+    7400056: Cat_arm|Walk
+    7400058: Cat_arm|Walk_search
+    7400060: Cat_arm|wash
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cat_middle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cat_arm|_idle_1
+      takeName: Cat_arm|_idle_1
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|attack
+      takeName: Cat_arm|attack
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|bounce
+      takeName: Cat_arm|bounce
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|bounce_180
+      takeName: Cat_arm|bounce_180
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|damage_1
+      takeName: Cat_arm|damage_1
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|damage_2
+      takeName: Cat_arm|damage_2
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|die
+      takeName: Cat_arm|die
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|die_2
+      takeName: Cat_arm|die_2
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|eat
+      takeName: Cat_arm|eat
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|hate
+      takeName: Cat_arm|hate
+      firstFrame: 0
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|hate_idle
+      takeName: Cat_arm|hate_idle
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|Idle_2
+      takeName: Cat_arm|Idle_2
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|idle_petting
+      takeName: Cat_arm|idle_petting
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|jump
+      takeName: Cat_arm|jump
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|petting-->sit
+      takeName: Cat_arm|petting-->sit
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|run
+      takeName: Cat_arm|run
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sit
+      takeName: Cat_arm|sit
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sit_idle
+      takeName: Cat_arm|sit_idle
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sit_idle_2
+      takeName: Cat_arm|sit_idle_2
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sit_petting
+      takeName: Cat_arm|sit_petting
+      firstFrame: 0
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sleep_end
+      takeName: Cat_arm|sleep_end
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sleep_idle
+      takeName: Cat_arm|sleep_idle
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sleep_petting
+      takeName: Cat_arm|sleep_petting
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|sleep_start
+      takeName: Cat_arm|sleep_start
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|up
+      takeName: Cat_arm|up
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|Walk
+      takeName: Cat_arm|Walk
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|Walk_search
+      takeName: Cat_arm|Walk_search
+      firstFrame: 0
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cat_arm|wash
+      takeName: Cat_arm|wash
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat_arm
+        weight: 1
+      - path: Cat_arm/helper_bleg.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.L/claws_back.L
+        weight: 1
+      - path: Cat_arm/helper_bleg.R
+        weight: 1
+      - path: Cat_arm/helper_bleg.R/claws_back.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.L/foot_front.L/claws_front.L
+        weight: 1
+      - path: Cat_arm/helper_fleg.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R
+        weight: 1
+      - path: Cat_arm/helper_fleg.R/foot_front.R/claws_front.R
+        weight: 1
+      - path: Cat_arm/knee_back.L
+        weight: 1
+      - path: Cat_arm/knee_back.R
+        weight: 1
+      - path: Cat_arm/knee_front.L
+        weight: 1
+      - path: Cat_arm/knee_front.R
+        weight: 1
+      - path: Cat_arm/spine_1
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.L/hip_front.L/leg_front.L
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/shoulder.R/hip_front.R/leg_front.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.L/hip_back_2.L/leg_back.L/foot_back.L
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/hip_back_1.R/hip_back_2.L.001/leg_back.R/foot_back.R
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6
+        weight: 1
+      - path: Cat_arm/spine_1/spine_2/spine_3/spine_4/tail_1/tail_2/tail_3/tail_4/tail_5/tail_6/tail_7
+        weight: 1
+      - path: Cat_arm/spine_5
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.L/ear_2.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/ear_1.R/ear_2.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.L.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/eye.R.001
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1
+        weight: 1
+      - path: Cat_arm/spine_5/neck_1/neck_2/head/mouth/tongue_1/tongue_2
+        weight: 1
+      - path: Cat_arm/tail_8
+        weight: 1
+      - path: Cat_middle
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
